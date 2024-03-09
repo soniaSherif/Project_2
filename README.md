@@ -2,7 +2,7 @@
 
 Submitted by: Sonia Sherif
 
-This web app: Allows people to play a game of guessing world flags
+This web app: Allows people to play a game of guessing world flags.
 
 Time spent: 6 hours spent in total
 
@@ -43,7 +43,7 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
-Saving muliple states between rendering wa difficult at first but as I read through the documentation I understood it better.
+Saving multiple states between rendering was difficult at first but as I read through the documentation I understood it better.
 
 ## License
 
